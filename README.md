@@ -12,9 +12,8 @@
 
 <form method="post" action="v1hr.html">
 
-<input style="width:300px; color:#0;"></input>
+<input style="width:300px; color:#0;">
 
 </form>
 
-</center>
-</html>
+
