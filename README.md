@@ -1,6 +1,6 @@
 ### v1
 <html>
-<script src="jshtml.s"></script>
+<script src="jshtml.js"></script>
 
 <h1></h1>
 
