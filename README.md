@@ -10,7 +10,7 @@
 <center>
 <body style="background-color: #f1f1f1;"> 
 
-<form method="post" action="v1hr.html">
+<form method="post" action="v1hrsr.html">
 
 <input style="width:300px; color:#0;">
 
