@@ -4,5 +4,5 @@ console.log("o:")
 
 let num = "search"
 document.write(num + " engine");
-document.write("What"+ "is" +"v1hr?:" \n);
-document.write("Is"+ "a"+"search"+"engine");
+document.write(\n"What"+ "is" +"v1hr?:" \n "Is"+ "a"+"search"+"engine");
+
