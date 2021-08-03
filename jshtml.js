@@ -1,6 +1,6 @@
 
-document.write("o");
+document.write("");
 console.log("o:")
 alert("systm")
-let num = "io"
-document.write(num);
+let num = "search"
+document.write(num + " engine");
