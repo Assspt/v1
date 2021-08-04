@@ -61,26 +61,10 @@ width: 100%;
 <br>
 <br>
 
-<div style=" background:#F1F1F1; margin-left:0px; width:280px;"> 
+<div style=" background:#fff; margin-left:0px; width:280px;"> 
 
 <a href="#" style="text-decoration:none;background:#F1F1F1; margin-left:40px; width:30px;"> 
-
-weblogs
-</a>
-<br>
-
-<br>
-<div style="background:#fff; margin-left:0px; width:280px; " class="button"> 
-
-<a href="#" style="text-decoration:none; background:#fff; margin-left:40px; width:280px;"> 
-
-creating weblog
-</a>
-</div>
-<div style=" background:#F1F1F1; margin-left:0px; width:280px;"> 
-
-<a href="#" style="text-decoration:none;background:#F1F1F1; margin-left:40px; width:30px;"> 
-						فارسی
+فارسی
 </a>
 </div>
 
