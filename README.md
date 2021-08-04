@@ -83,7 +83,7 @@ width: 100%;
 <br>
 
 
-<div style=" background:#f1f1f1; color:#000; text-align: left;">
+<div style=" background:#f1f1f1; color:#000; text-align: left; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; ">
 <p>
 <b>
 Security of stolen content
