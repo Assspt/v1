@@ -1,7 +1,7 @@
  
 <html>
 <script src="jshtml.js"></script>
-<!DOCTYPE html>
+
 <html>
 <head>
 </head>
@@ -48,10 +48,10 @@ input[type=text]:focus {
 width: 100%;
 		}
 </style>
-</head>
+
 <body>
 		
-</center>
+
 		
 <form>
 <input type="text" name="search" placeholder="Search..">
@@ -61,7 +61,7 @@ width: 100%;
 <br>
 <br>
 </center>
-<div style=" background:#F1F1F1; margin-left:40px; width:280px;"> 
+<div style=" background:#F1F1F1; margin-left:0px; width:280px;"> 
 
 <a href="#" style="text-decoration:none;background:#F1F1F1; margin-left:40px; width:30px;"> 
 
@@ -116,6 +116,6 @@ Your blog content is <br>not copied and you can copy or paste your blog posts
 </div>
 
 
-</html>
+
 
 
