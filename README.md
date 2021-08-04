@@ -60,7 +60,7 @@ width: 100%;
 
 <br>
 <br>
-</center>
+
 <div style=" background:#F1F1F1; margin-left:0px; width:280px;"> 
 
 <a href="#" style="text-decoration:none;background:#F1F1F1; margin-left:40px; width:30px;"> 
@@ -84,7 +84,7 @@ creating weblog
 </a>
 </div>
 
-</body>
+
 				
 
 
