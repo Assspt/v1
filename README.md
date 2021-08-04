@@ -63,7 +63,7 @@ width: 100%;
 
 <div style=" background:#fff; margin-left:0px; width:280px;"> 
 
-<a href="#" style="text-decoration:none;background:#fff; margin-left:40px; width:30px;"> 
+<a href="v1hrfa.html" style="text-decoration:none;background:#fff; margin-left:40px; width:30px;"> 
 فارسی
 </a>
 
