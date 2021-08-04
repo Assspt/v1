@@ -57,7 +57,7 @@ width: 100%;
 <input type="text" name="search" placeholder="Search..">
 </form>
 		
-</body>
+
 <br>
 <br>
 </center>
